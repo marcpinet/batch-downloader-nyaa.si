@@ -1,5 +1,5 @@
 <h1> How it Works </h1>
-Everything is written into the script as a comment if you need some explainations. <br>
+Nyaa Downloader is a tool that allows to you to downlod many .torrent at a time in one click. <br>
 If you want to add a provider like <b>Erai-Raws</b> or <b>SubsPlease</b> etc., you'll need to edit the list in the script.
 Since they are the only two uploaders that are mainly active and trusted by Nyaa.si, I decided to only put those two. Feel free to add any other uploader you trust.<br><br>
 
