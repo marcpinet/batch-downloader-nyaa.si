@@ -29,3 +29,13 @@ I still prefer using win10toast for the python file because it's still widely us
   <h1> WORK IN PROGRESS </h1>
 
 I will add more features when it will come to my mind. Feel free to contribute to this project by posting your suggestions in the <b>Issue</b> section.
+
+
+<h1> THE SCRIPT </h1>
+
+
+https://user-images.githubusercontent.com/52708150/128935045-1948dabf-58b8-445a-b3f5-410905376900.mp4
+
+
+
+
