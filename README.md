@@ -28,13 +28,13 @@ To install them in one command, just download the `requirements.txt` and `cd <pa
 I still prefer using win10toast for the python file because it's still widely used (more than plyer) and I will probably add callback functions with the <a href=https://github.com/vardecab/win10toast-click>win10toast-click</a> in a future release.<br><br>
 
   
-<h1>⚙️ WORK IN PROGRESS </h1>
+<h1>⚙️ Work in progress </h1>
 
 I will add more features when it will come to my mind.<br>
 Feel free to contribute to this project by posting your suggestions in the <b>Issue</b> section.<br><br>
 
 
-<h1>🐍 THE SCRIPT </h1>
+<h1>🐍 The script in action </h1>
 
 https://user-images.githubusercontent.com/52708150/128935045-1948dabf-58b8-445a-b3f5-410905376900.mp4
 
