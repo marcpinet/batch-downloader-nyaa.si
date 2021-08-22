@@ -31,7 +31,9 @@ Feel free to contribute to this project by posting your suggestions in the <b>Is
 
 <h1>🐍 The script in action</h1>
 
-This quick video shows you how the script works (without trying to make it crash (of course, you won't succeed in making it crash 👀))
+This quick video shows you how the script works (without trying to make it crash (of course, you won't succeed in making it crash 👀))<br><br>
+<b>Fun fact:</b>
+<br>As you might have seen, in the video, the first episode of <i>Boku no Hero Academia 5th Season</i> wasn't really downloaded.<br>The script took the most recent one which happened to have a title similar to a batch release.<br>I found a way to fix that and it now works. I won't make the video again since it takes a lot of time (lol)
 
 https://user-images.githubusercontent.com/52708150/130366440-2635b482-07bc-4df4-8b5e-b64fd2f0dd9c.mp4
 
