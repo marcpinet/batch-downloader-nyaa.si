@@ -16,7 +16,7 @@ Every downloaded torrent will be stored in a folder (names wil be the anime name
 With the command `pip install <library>` you'll need to install the following ones :
   
   • NyaaPy<br>
-  • win10toast<br>
+  • winotify<br>
   • requests<br>
   
 You need to be on a Windows 10 machine, of course.
