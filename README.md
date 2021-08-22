@@ -31,7 +31,7 @@ Feel free to contribute to this project by posting your suggestions in the <b>Is
 
 <h1>🐍 The script in action</h1>
 
-(without trying to make it crash (of course, you won't succeed in making it crash 👀))
+This quick video shows you how the script works (without trying to make it crash (of course, you won't succeed in making it crash 👀))
 
 https://user-images.githubusercontent.com/52708150/130366440-2635b482-07bc-4df4-8b5e-b64fd2f0dd9c.mp4
 
