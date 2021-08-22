@@ -22,11 +22,6 @@ With the command `pip install <library>` you'll need to install the following on
 You need to be on a Windows 10 machine, of course.
   
 To install them in one command, just download the `requirements.txt` and `cd <path>` with the cmd to where the file is located. Then run the following command: `pip install -r requirements.txt` and it should be done!<br><br>
-
-<h1>📝 Important Note for the binary (.exe) from the release</h1>
-<a href=https://github.com/jithurjacob/Windows-10-Toast-Notifications>win10toast</a> doesn't work at all with <a href=https://pypi.org/project/auto-py-to-exe/>PyToExe</a> (nor Pyinstaller) so I used another library called <code>plyer</code> which allows me to use windows 10 toast notifications (as a replacement for win10toast).<br><br>
-I still prefer using win10toast for the python file because it's still widely used (more than plyer) and I will probably add callback functions with the <a href=https://github.com/vardecab/win10toast-click>win10toast-click</a> in a future release.<br><br>
-
   
 <h1>⚙️ Work in progress </h1>
 
