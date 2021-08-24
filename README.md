@@ -1,7 +1,7 @@
 <h1>❓ How it Works </h1>
 NyaaDownloader is a lightweight and user-friendly tool that allows to you to downlod many .torrent (or transfer magnets) at a time. <br>
 This tool was made in a way so that the user will almost never be able to make the script crash or run an unhandled exception.<br><br>
-If you want to add or remove a provider (uploader) like <a href=https://beta.erai-raws.info><b>Erai-Raws</b></a> or <a href=https://subsplease.org><b>SubsPlease</b></a> etc., well... you can! Directly in the console!<br>
+If you want to add or remove a provider (uploader) like <a href=https://beta.erai-raws.info><b>Erai-Raws</b></a> or <a href=https://subsplease.org><b>SubsPlease</b></a> etc., well... you can, directly in the console!<br>
 Since they are the only two uploaders that are mainly active and trusted by Nyaa.si, I decided to only put those two. Feel free to add any other uploader you trust (and remove the ones that you're not interested in).<br><br>
 
 You specify the anime name, the episode where you want to start downloading, and then the last episode. You can also select the quality and download multiple anime at a time.<br><br>
