@@ -28,7 +28,7 @@ With the command `pip install <library>` you'll need to install the following on
   
 To install them in one command, just download the `requirements.txt` and `cd <path>` with the cmd to where the file is located. Then run the following command: `pip install -r requirements.txt` and it should be done! Python version: `3.9.1` but should works with any `3.0+` version.<br><br>
 
-<h1>💻 "Hey, I don't have Python on my PC... what should I do?"</h1>
+<h1>💻 "I don't have Python on my PC, what should I do?"</h1>
 Don't worry mate, I created a .exe file which can be executed on any Windows 10 machine.<br>Just go <a href="https://github.com/marcpinet/batch-downloader-nyaa.si/releases" target=_blank>here</a> and download the latest version of NyaaDownloader by clicking on it (above `Source Code.zip`).<br><br>Carefully read the <b>Note</b> section if you've got any problem with it.<br><br>
 
 <h1>⚙️ Work in progress</h1>
