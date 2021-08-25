@@ -34,7 +34,8 @@ Don't worry mate, I created a .exe file which can be executed on any Windows 10 
 <h1>⚙️ Work in progress</h1>
 
 I will add more features when it will come to my mind.<br>
-Feel free to contribute to this project by posting your suggestions in the <b>Issue</b> section.<br><br>
+Feel free to contribute to this project by posting your suggestions in the <b>Issue</b> section.<br>
+The goal is to make a GUI (probably a web-based one) to make it as user-friendly as possible.<br><br>
 
 
 <h1>🐍 The script in action</h1>
